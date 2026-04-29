@@ -1,3 +1,4 @@
+new Intl.DateTimeFormat('es-ES').format(new Date()); // Returns DD/MM/YYYY
 document.getElementById('load-images').addEventListener('click', function() {
     const container = document.getElementById('image-container');
     // Example: Adding a placeholder image
