@@ -16,7 +16,7 @@ header h1 {
   background-color: #007bff;
   border: 1px solid #0056b3;
   color: white;
-  border-radius: 20px; /* pill-shaped button */
+  border-radius: 30px; /* pill-shaped button */
 }
 
 /* Change box color on hover */
