@@ -10,6 +10,22 @@ header h1 {
     color: #333;
 }
 
+/* Style only the last link as a button */
+.nav-links a:last-child {
+  background-color: #007bff;
+  border: 1px solid #0056b3;
+  color: white;
+  border-radius: 20px; /* Makes it look like a pill-shaped button */
+}
+
+/* Change box color on hover */
+.nav-links a:hover {
+  background-color: white;
+  color: black;
+  border-color: #cccccc;
+}
+
+
 #load-images {
     background-color: #007bff;
     color: white;
