@@ -11,7 +11,7 @@ header h1 {
 }
 
 /* Style only the last link as a button */
-.nav-links a:last-child {
+.nav-links a {
   background-color: #007bff;
   border: 1px solid #0056b3;
   color: white;
