@@ -10,12 +10,13 @@ header h1 {
     color: #333;
 }
 
-/* Style only the last link as a button */
+/* Link Style */
 .nav-links a {
+  text-decoration: none;
   background-color: #007bff;
   border: 1px solid #0056b3;
   color: white;
-  border-radius: 20px; /* Makes it look like a pill-shaped button */
+  border-radius: 20px; /* pill-shaped button */
 }
 
 /* Change box color on hover */
